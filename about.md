@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: 자기소개
 subtitle: 
 permalink: /about/
