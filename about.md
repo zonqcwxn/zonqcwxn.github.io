@@ -1,12 +1,12 @@
 ---
-layout: page
-title: About
-subtitle: Just who the hell you think I am?
+layout: about
+title: 자기소개
+subtitle: 
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+안녕하십니까,
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+저는 경상국립대학교 18학번 졸업했으며 수학, 스마트제조ICT 전공, 데이터사이언스 부전공하였고
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+현재 백엔드 개발자로 취업 준비중에 있습니다.
